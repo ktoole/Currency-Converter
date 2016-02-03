@@ -1,6 +1,7 @@
 # Currency-Converter
 A simple currency converter Android Application that takes a currency as in input and then outputs its converted currency equivalent.
 
+Check out the wiki in order to see a screenshot of the app!
 
 As of right now, this app is able to download information from api.fixer.io in order to update its exchange rates.  It offers a simply and intuitive design interface as well.  It currently only includes the major world currencies, which go as follows:
 
